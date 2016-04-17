@@ -4,3 +4,6 @@ div{
 p{
 	color: red;
 }
+p.now{
+	color: blue;
+}
